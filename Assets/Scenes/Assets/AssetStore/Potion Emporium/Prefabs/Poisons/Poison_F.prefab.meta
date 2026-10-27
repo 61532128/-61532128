@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca60f918f06c0cb4fa711ae4e4e69fb1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Prefabs/Poisons/Poison_F.prefab
+  uploadId: 405120

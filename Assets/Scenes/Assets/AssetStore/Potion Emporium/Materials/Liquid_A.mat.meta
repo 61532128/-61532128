@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df382e8d31217a14496af704405085f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Liquid_A.mat
+  uploadId: 405120

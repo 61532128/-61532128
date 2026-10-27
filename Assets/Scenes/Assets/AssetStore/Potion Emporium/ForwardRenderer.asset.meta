@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e944f4790b0a5540a6f6c0679a4e6a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/ForwardRenderer.asset
+  uploadId: 405120

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa43d30e4de8456478c94cd97ade9389
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Crates.mat
+  uploadId: 405120

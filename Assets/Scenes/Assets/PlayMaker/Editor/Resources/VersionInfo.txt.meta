@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 055139cb48712e24b88f8100774180a9
+timeCreated: 1549574166
+licenseType: Pro
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368
+  packageName: Playmaker
+  packageVersion: 1.9.10f1
+  assetPath: Assets/PlayMaker/Editor/Resources/VersionInfo.txt
+  uploadId: 949342

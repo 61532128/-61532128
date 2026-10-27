@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee88bafe1cae2264a84e1464257b6f4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Poison Bottle_C.mat
+  uploadId: 405120

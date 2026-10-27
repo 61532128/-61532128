@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9ffe81fe7b3f3c42b2b04425c4fdebd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Prefabs/Poisons/Poison_D_Bottle.prefab
+  uploadId: 405120

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87d2425218f123641a3f26e9e9b865d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Jars_02.mat
+  uploadId: 405120

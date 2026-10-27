@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6cc4295a65830543b815355daac884c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Powders.mat
+  uploadId: 405120

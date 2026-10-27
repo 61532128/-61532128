@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 97a13c2061ecdac408b55026ca8edeca
+timeCreated: 1522260315
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368
+  packageName: Playmaker
+  packageVersion: 1.9.10f1
+  assetPath: Assets/PlayMaker/Editor/PlayMakerAddonManager.cs
+  uploadId: 949342

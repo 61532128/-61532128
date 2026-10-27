@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2421d21538852cb4394abb91a06d19b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Tags.mat
+  uploadId: 405120

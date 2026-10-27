@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa82215da46e9b14189c9286bf66dd10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Mortar_Pestles.mat
+  uploadId: 405120

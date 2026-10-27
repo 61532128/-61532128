@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0739081a89959a84ebbf9730a5db8058
+timeCreated: 1605474629
+licenseType: Pro
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368
+  packageName: Playmaker
+  packageVersion: 1.9.10f1
+  assetPath: Assets/PlayMaker/Editor/Install/Resources/CheckActions.txt
+  uploadId: 949342

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 600b64804fe1e7a40ba59e9ff43a044b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Materials/Corks_Strings.mat
+  uploadId: 405120

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8c0dd181dbd8c446a7c33a216cb250d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Prefabs/Poisons/Poison_Opaque_B.prefab
+  uploadId: 405120

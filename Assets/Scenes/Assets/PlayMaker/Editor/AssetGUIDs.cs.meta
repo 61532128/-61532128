@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 992324b05531be34e9ce52a4ee5f86c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368
+  packageName: Playmaker
+  packageVersion: 1.9.10f1
+  assetPath: Assets/PlayMaker/Editor/AssetGUIDs.cs
+  uploadId: 949342

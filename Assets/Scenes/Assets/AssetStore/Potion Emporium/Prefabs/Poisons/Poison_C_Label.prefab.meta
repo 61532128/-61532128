@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25345c22b89675e4da3bac5934419b94
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155289
+  packageName: Potion Emporium
+  packageVersion: 1.1
+  assetPath: Assets/Potion Emporium/Prefabs/Poisons/Poison_C_Label.prefab
+  uploadId: 405120
